@@ -1,0 +1,1 @@
+console.log(`Dwayne Johnson once said, “When you focus on you, you grow. When you focus on shit, shit grows.”`);
